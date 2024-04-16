@@ -1,0 +1,13 @@
+##This is a fake Yaml file that has nothing
+
+person:
+  name: Ejegz
+  age: 399
+  address:
+    city: Lagos
+    street: the streets
+    zipcode: "10001"
+  hobbies:
+    - Gaming
+    - command line"ing"
+    - sports
